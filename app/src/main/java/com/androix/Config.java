@@ -14,7 +14,7 @@ public  class  Config {
 
     public static String TOKEN = "288855e1047995076511bea66264d674";
 
-    public static String URL = "http://192.168.1.6/";
+    public static String URL = "http://localhost/";
 
     public static String URL_ACAO = URL + "comando/" + TOKEN;
 
